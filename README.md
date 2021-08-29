@@ -1,5 +1,5 @@
 # Discord Music Bot <img align="left" width="40px" target="_blank" src="https://simpleicons.org/icons/discord.svg" alt="Kenneth's Linkedin" /> 🎵
-Created a Discord bot using JavaScript to play music on a Discord server.
+Created a Discord bot using JavaScript and NodeJS to play music on a Discord server.
 
 ## Get Started
 
